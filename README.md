@@ -1,7 +1,7 @@
 # CounterProgram
 ## The counter program is a program that deals with strings.
 
-* The user can choose if he want:
+* The user can choose if he want to:
 1. Enter the string
 2. Read the string from the file 
 
